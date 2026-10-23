@@ -1,0 +1,1 @@
+Exported from Figma file tNRTm6pePddRyr1RYsZQBi, page aura, frame 3.3 (2006:27638): instances star/stroke/plain, star/filled/plain, star/combo/2. Each SVG keeps the original 12px drop-shadow padding (#613EEA, blur 12).

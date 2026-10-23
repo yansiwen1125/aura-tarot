@@ -1,0 +1,2 @@
+All SVG geometry in this folder is extracted from original Figma exports, not redrawn. Sources: docs/figma-source/1.2.svg (node 2006:21144), 1.7.svg (node 2006:21648), 3.3.svg (node 2006:27638). View boxes isolate original layers and their required definitions. Input and guide border assets retain only the original stroke, so application fills can remain transparent or white as requested.
+Homepage topic chevron: docs/figma-source/1.1.svg, node 2006:21098, original Vector layer with its original gradient.

@@ -1,0 +1,373 @@
+{
+  "description": "与原项目字节一致的代码、测试及素材；文档与可移植测试脚本不在此清单内。",
+  "files": [
+    {
+      "path": ".env.example",
+      "sha256": "3203073134e85c8ad5de4a21085e4a65ddabd204f952f03b1c758891735922a5"
+    },
+    {
+      "path": "app.js",
+      "sha256": "33658dea84c3b5bfd0f9c2cbcc3de02ef07d23584fe27aa02d570ea665f3f0fb"
+    },
+    {
+      "path": "assets/FONT-NOTICE.md",
+      "sha256": "e144452cd31aa551f574d5f534cbb17189b2009c3e9e5b69232cee861b6ea0f6"
+    },
+    {
+      "path": "assets/Rochester-LICENSE.txt",
+      "sha256": "cfc7749b96f63bd31c3c42b5c471bf756814053e847c10f3eb003417bc523d30"
+    },
+    {
+      "path": "assets/Rochester-Regular.ttf",
+      "sha256": "9b80476c5e1931d52d66e7b9e40194119e331a6285439ecbe1f4df30c333b30b"
+    },
+    {
+      "path": "assets/icons/SOURCE.md",
+      "sha256": "66600d4af9b573860e0bf77c5644318b3fe9978d46f6d25ee65c9c391d1ef134"
+    },
+    {
+      "path": "assets/icons/back.svg",
+      "sha256": "14210ae3a5b2e87f2b490dbdbcd6b039a7dade0179294b2debf132695dda79c9"
+    },
+    {
+      "path": "assets/icons/chevron.svg",
+      "sha256": "fddc1c29b641e71f81db8a3bce385f5f45c3a1d41a4801118444851daca1ae4f"
+    },
+    {
+      "path": "assets/icons/copy.svg",
+      "sha256": "36a08a81c52d2be0d0c68e043e0399750197391242fda81830b2a5592d3f9da9"
+    },
+    {
+      "path": "assets/icons/guide-selected-border.svg",
+      "sha256": "c8d51db6d3155886ff67535a8aff1d0689883aecb802f1ddc789cb64a46f797c"
+    },
+    {
+      "path": "assets/icons/guide-unselected-border.svg",
+      "sha256": "b63cc3c92bf3e7a2743163a4aa15b8373eeaee87b7124be73b7b994da1bb02e1"
+    },
+    {
+      "path": "assets/icons/input-border.svg",
+      "sha256": "c868ec5a2d84749ab9efc3a6f4a2af9c07922a6955c9c3854f40b84f7cb21548"
+    },
+    {
+      "path": "assets/icons/refresh.svg",
+      "sha256": "3d4de84ca674cefaa621d7c99b747334628a5303354be8281286bb8e4ae13536"
+    },
+    {
+      "path": "assets/icons/right.svg",
+      "sha256": "6b68239b89b75c1eb27a992eda47cee1f5b493bd27bf26350ae6ac4ff353c230"
+    },
+    {
+      "path": "assets/icons/send-button.svg",
+      "sha256": "0394a1572ce2c89ba0e7672b9db61e66eac7c6d7fc7df8f51b3bff8f0004eb63"
+    },
+    {
+      "path": "assets/icons/send.svg",
+      "sha256": "e9b5925ee4d3c87ace7920478f2757911de33ded35869b983c6cd0c159eed8b1"
+    },
+    {
+      "path": "assets/icons/share.svg",
+      "sha256": "4bfa3fbf22a57d9847512191eb241237643bce90dc96b67751231e4ced057a45"
+    },
+    {
+      "path": "assets/icons/shuffle.svg",
+      "sha256": "1a206c1a5242159b9cee535b94cb8df5fe4b58848a374da0c94cc8f42ab206b0"
+    },
+    {
+      "path": "assets/icons/spark.svg",
+      "sha256": "4201b03f9ed58320c12a556274c73c707548b0c3a9ec13cad1276e0e47997076"
+    },
+    {
+      "path": "assets/icons/status.svg",
+      "sha256": "05ef6bf47f65241299746ebc6c322526b3401638488bf712472f98fc9e7e98b6"
+    },
+    {
+      "path": "assets/icons/thumbdown.svg",
+      "sha256": "d539d8394e914ed6566bc4a6dbae93be34db0263019713bb2e3c2ca30b30f85d"
+    },
+    {
+      "path": "assets/icons/thumbup.svg",
+      "sha256": "e2c95fadcc7eab349c344602eacc94fa3eb89bfa5aec7fcd3e8435218c5e96de"
+    },
+    {
+      "path": "assets/icons/topic-right.svg",
+      "sha256": "319eb8c605d36f60650b4265189a7f1f8b0fafd246b0af8688fcdeeef42a7931"
+    },
+    {
+      "path": "assets/stars/SOURCE.md",
+      "sha256": "79517db3dc743433b307363a95e5974dd765d345ad575cd162c48dbac76421fd"
+    },
+    {
+      "path": "assets/stars/combo-2.svg",
+      "sha256": "27a87c4e26b12423ed21c6986bbbec6b041179e14ffd0e607b0f3acbce0632e7"
+    },
+    {
+      "path": "assets/stars/filled-plain.svg",
+      "sha256": "de13a61cd7f9701ac6ce8b32bf50e89b597ddb545b5b10c03511761185cf8a68"
+    },
+    {
+      "path": "assets/stars/stroke-plain.svg",
+      "sha256": "3acfbd0af09ff28caacad1bea55405136b05243c2b87ed15dea8c5949f8ff267"
+    },
+    {
+      "path": "assets/tarot/00.png",
+      "sha256": "28bba09ad025aa719af40b0d4da66b5797e78456ca7465322e620172c889e763"
+    },
+    {
+      "path": "assets/tarot/01.png",
+      "sha256": "e4e42265eaec7d4fd333003cd5995926606f3c0443622ccecb58ee6ed4e8039d"
+    },
+    {
+      "path": "assets/tarot/02.png",
+      "sha256": "6c0687659e622cc68cc9f7ea662c4cf1a39ca37504d4dc4e942f8f5a7d984d18"
+    },
+    {
+      "path": "assets/tarot/03.png",
+      "sha256": "e9ed824d868b06eacd92d95ace846619456ebcf264ce1080d457ad31840c2fdc"
+    },
+    {
+      "path": "assets/tarot/04.png",
+      "sha256": "cc74c7410244d50831e0a860bda3915e5cb32ad3ce53c6d9954ae2f96d23d2c8"
+    },
+    {
+      "path": "assets/tarot/05.png",
+      "sha256": "7c600451d5c2af990aa01dc5210b761ed30fa4f82f8c9d044249a0ec06202ab7"
+    },
+    {
+      "path": "assets/tarot/06.png",
+      "sha256": "1c516e4baf40dd79fd6395efd5c7cbb32dc1e3b9ccaa2aad8fa58ec318894109"
+    },
+    {
+      "path": "assets/tarot/07.png",
+      "sha256": "9eec87a29ba4b4ab1757fbd43cfe07edd6428183ec054d993df8dd24ca29b3c5"
+    },
+    {
+      "path": "assets/tarot/08.png",
+      "sha256": "3c1a0676e0f68080fbf9eab1f45d1ee7e11765a6a24b6161c735833a8e5e1462"
+    },
+    {
+      "path": "assets/tarot/09.png",
+      "sha256": "d290a0738f03b43183d3d46f93da81baf3c2b29aee672bd64d522735a19b8f29"
+    },
+    {
+      "path": "assets/tarot/10.png",
+      "sha256": "8e2ad0792857642250200c740cddf7d13e74be7517756cadb94f2fbb0a3ba8f3"
+    },
+    {
+      "path": "assets/tarot/11.png",
+      "sha256": "421f9b5fb1b7256a5fdecde9b72d859c19438caada5741f6cd4af1a44d2d3b42"
+    },
+    {
+      "path": "assets/tarot/12.png",
+      "sha256": "3e93fa61ec02c38b67a6628402b5a080f6a87b3df223e4db02d65fc65eee4b14"
+    },
+    {
+      "path": "assets/tarot/13.png",
+      "sha256": "8f186ef1eab9a1bbaa0b0ac1f58168d830cf4d0fd8304457070176b05a6706ae"
+    },
+    {
+      "path": "assets/tarot/14.png",
+      "sha256": "824f06100bf32219479bb5b0deba0c89bec34ef468627119d74d1975d4c8f0a7"
+    },
+    {
+      "path": "assets/tarot/15.png",
+      "sha256": "0bd8da9f7240f871cda0d8f64eef30505b15bf02b02fdbc922beb6e1ad2dbaa9"
+    },
+    {
+      "path": "assets/tarot/16.png",
+      "sha256": "0fc973c491b3a5efb7bd0afb8cbebe38cf9b098621a0c2987dc03fd9b703b281"
+    },
+    {
+      "path": "assets/tarot/17.png",
+      "sha256": "b0a58c8c4c81fa72f390d14a1ed45938dafdfdc12e9b7b1b8f5304fbde97a9d3"
+    },
+    {
+      "path": "assets/tarot/18.png",
+      "sha256": "1515fd8b19d349518abb1c2c9e939a39596acdddf83feeb7e0b6f830c32d7d9d"
+    },
+    {
+      "path": "assets/tarot/19.png",
+      "sha256": "754721c58951e27c1bafcbf6403972141a029670627161f3b4dc15542b1574a2"
+    },
+    {
+      "path": "assets/tarot/20.png",
+      "sha256": "8b06f6f222a12b2084ed50040cb1168a1e05e75288cbc0709c680d3db33c2447"
+    },
+    {
+      "path": "assets/tarot/21.png",
+      "sha256": "95f1c2de1b818e648b5586c403b7f742ce030fd15bc94ee8c04d6615462cf130"
+    },
+    {
+      "path": "assets/tarot/SOURCE.md",
+      "sha256": "226f77323fd52bcfbc7c617cebe3b53758db9b105f5078d190f5ddc29e6ac3d1"
+    },
+    {
+      "path": "assets/tarot/avatars/00.png",
+      "sha256": "16f83e974ca0909ddce40b816ffcc70ca7fcaf64f201470d9e2a488ca1f375cb"
+    },
+    {
+      "path": "assets/tarot/avatars/01.png",
+      "sha256": "c993b6187f357a9081e4b189a194ba6e3c0d1b0fc4a6c5c0d6b236b8f060063f"
+    },
+    {
+      "path": "assets/tarot/avatars/06.png",
+      "sha256": "2b6ea556125fd6638c7b035ce2505ea5418513d6fa192454cdc1e16f34da3e58"
+    },
+    {
+      "path": "assets/tarot/avatars/14.png",
+      "sha256": "16580360ee0c4498e2b48ef9fc86cd3de414af45a3a17071b2367ef6ffa0e978"
+    },
+    {
+      "path": "assets/tarot/avatars/18.png",
+      "sha256": "a1a274626b20bc9836a44368cbc185bbaafc9376c6bd619b1d1b1feb920b597d"
+    },
+    {
+      "path": "assets/tarot/back.png",
+      "sha256": "698a97a47095c14deef40f36b83dc6a1c5a9a1aa1913f0b1fc7d3deacccb4f73"
+    },
+    {
+      "path": "assets/tarot/figma-cloth-310.png",
+      "sha256": "2d5c1d797c553c99fdbe6385ccff7be39c37403050bec784401f9f2957fd4198"
+    },
+    {
+      "path": "assets/tarot/subject-00.png",
+      "sha256": "c9f9824e2b0defd26fec6066432f0da2de168ed666e3a98bcadc27be762e037d"
+    },
+    {
+      "path": "assets/tarot/subject-01.png",
+      "sha256": "4d3ad05d4340947045a1048835850a9be75bbe2e023663c0d34c082ae5cc0ae4"
+    },
+    {
+      "path": "assets/tarot/subject-06.png",
+      "sha256": "da15f40d6fc1e025701fada54337210389bc954213665f0e4ffae16a74764fca"
+    },
+    {
+      "path": "assets/tarot/subject-14.png",
+      "sha256": "9266af798d333b9875a66cd8342410f969e2555c4ef73d910e154581fe62c16c"
+    },
+    {
+      "path": "assets/tarot/subject-18.png",
+      "sha256": "ba1c193dc7ea4a6163825d9377b969f268dcd2e4120afe7394ee50002a7e5c9c"
+    },
+    {
+      "path": "assets/v5/SOURCE.md",
+      "sha256": "f05aad9efb98bce6a6f4f4f4954559bb7f1a7e80258e7cf1b0ae8468ae7148cf"
+    },
+    {
+      "path": "assets/v5/navigation-history.svg",
+      "sha256": "61591e5cb0c3f58fe637969f101d24b59fda7172e0f9d782d6bda56ceb08710e"
+    },
+    {
+      "path": "assets/v5/navigation.svg",
+      "sha256": "600cba2f3d27fd8f1e767fdf73e3b4ab7416fdbe151dae69c7d49bc8c3bbc789"
+    },
+    {
+      "path": "client/ai-client.js",
+      "sha256": "71b4a0f543136a596128b12401ec878de80925c4eff4790a1fb789d519fe4650"
+    },
+    {
+      "path": "client/demo-fallback.js",
+      "sha256": "390a583233f8dcf0aa21971de3914d14b79b7b978729faad8d1e105259466b3c"
+    },
+    {
+      "path": "client/storage.js",
+      "sha256": "92ec32625fac2da4e1ccf59b5388c2f5eb860b07f2165c2a78cf0f46b3d1fdc6"
+    },
+    {
+      "path": "content.js",
+      "sha256": "d564cce447bb3c539eff6c94561c3c68ab408de716d299e38189aec28c4c353d"
+    },
+    {
+      "path": "core.js",
+      "sha256": "e385aa8d339be1e9acf30a781a0f5dd5a705760606ff98088a266feb639b8493"
+    },
+    {
+      "path": "index.html",
+      "sha256": "0f4f86dad9753454a512cd72403aad1f33f94eb743a7e6c66c6f194fd74f424e"
+    },
+    {
+      "path": "package.json",
+      "sha256": "c3745e304f237b2efeac3d1c0940ca7f48ac047550e8079220f6f1782ae8a4e6"
+    },
+    {
+      "path": "scripts/check-assets.mjs",
+      "sha256": "b906e891738cbd9daec2079cc9f088094a730142ccf5adcd39a8c9bc27a2022e"
+    },
+    {
+      "path": "scripts/check-source.mjs",
+      "sha256": "18550b12a181033440cb611019372c2a7152d41311ffd0f08aeedbf6c5fe30cc"
+    },
+    {
+      "path": "scripts/live-smoke.mjs",
+      "sha256": "7b94304eecf17e6341fd45eb0235e4d41d8cf591ad1e45a7362e135669b14e62"
+    },
+    {
+      "path": "server/deepseek.mjs",
+      "sha256": "9f92c913b41308350e11cfa5e3853fb7f383523343cf4c4ea231ab85777342e7"
+    },
+    {
+      "path": "server/reading-plan.mjs",
+      "sha256": "d053f3e9d946ce7fdbf5e9a2263de5512d5b3233766d3e65abe6f669c9133836"
+    },
+    {
+      "path": "server/router.mjs",
+      "sha256": "b9c0caff6851585c054fa266a18c1f2c5dbcaaa380f12ce8f5bfae0f25d61a30"
+    },
+    {
+      "path": "server/service.mjs",
+      "sha256": "22d2281febde3accd191153a2fbec07d6533c6a718a11767defc070a50136c92"
+    },
+    {
+      "path": "server.mjs",
+      "sha256": "4ec4c067b2a2b52968ae4516142a2fcaa97483be0fbb2b80b32f80ac22a9bfd0"
+    },
+    {
+      "path": "shared/contracts.js",
+      "sha256": "6fe3bd5deb3ca1cb1e0d92f4bf0809a52325c00cec43eb0ec0960fedc358108d"
+    },
+    {
+      "path": "shared/followups.js",
+      "sha256": "cb5f2bcb89da3e064edb7fb943a5c44c9488781b134915ab95c70560dd5b526c"
+    },
+    {
+      "path": "shared/language.js",
+      "sha256": "c3d44e5b59362fed30876b1730bccf743f295d4c9982d9c4d1cf590935972277"
+    },
+    {
+      "path": "shared/sse.js",
+      "sha256": "5171137da877517114c1bb47f55012bea32c75503c9c8d6b143d3f62dfeb3f47"
+    },
+    {
+      "path": "shared/tarot-catalog.js",
+      "sha256": "1094235717b7a3bd0b89815bfc69a2a88e93ab44d38a724f97731d525dbbdfda"
+    },
+    {
+      "path": "simulator.js",
+      "sha256": "d248bf3d7e4ea97bccb29ed01360d454052ef42d2d1fa012834dd803205a90c4"
+    },
+    {
+      "path": "style.css",
+      "sha256": "5f44e30e3e50d7fdde2e6573284729d2766646973ce0d0bb49c70d21008c3fdd"
+    },
+    {
+      "path": "tests/ai.test.mjs",
+      "sha256": "9f75a4e9182717381e38d165637dfa888cf74dea5b24c4303a4a66908e107e11"
+    },
+    {
+      "path": "tests/core.test.mjs",
+      "sha256": "b433ceebdd35eee02954a011361217faf3630344f2b302f6ab9454c78da651b7"
+    },
+    {
+      "path": "tests/language.test.mjs",
+      "sha256": "bd5277c2bcb9d4f28e5aed74db9404126c4dc500c218ecb552229ad16a4b2373"
+    },
+    {
+      "path": "tests/server.test.mjs",
+      "sha256": "b796ad0d22d22b2bdbd32bd21a1bb6ceb3fde873213b86a81cba03011b9fc871"
+    },
+    {
+      "path": "tests/simulator.test.mjs",
+      "sha256": "0b0437bf7a0e4e978ca8eda8fb131728ae43f111a7c14a2338d53c47e3c6bb03"
+    }
+  ]
+}

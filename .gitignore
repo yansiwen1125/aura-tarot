@@ -1,0 +1,16 @@
+.DS_Store
+node_modules/
+*.log
+.env
+.env.*
+!.env.example
+.aura-budget.json*
+
+# Generated test reports and local tools
+docs/previews/
+coverage/
+playwright-report/
+test-results/
+.claude/
+.idea/
+.vscode/

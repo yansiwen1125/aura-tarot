@@ -1,0 +1,12 @@
+import http from 'node:http';
+import path from 'node:path';
+import {fileURLToPath} from 'node:url';
+import {existsSync} from 'node:fs';
+import {createRouter} from './server/router.mjs';
+const root=path.dirname(fileURLToPath(import.meta.url));
+const envFile=path.join(root,'.env');
+if(existsSync(envFile))process.loadEnvFile(envFile);
+const port=Number(process.env.PORT||4196);
+const server=http.createServer(createRouter(root));
+server.requestTimeout=300000;
+server.listen(port,'127.0.0.1',()=>console.log(`Aura is ready at http://127.0.0.1:${server.address().port}`));
