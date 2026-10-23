@@ -12,7 +12,7 @@
 
 ## 验证结果
 
-- 92 个原样文件 SHA-256 一致，见 INTEGRITY.json。
+- 91 个原样文件 SHA-256 一致，见 INTEGRITY.json。
 - npm run check：17 个运行模块语法、61 项本地资源检查通过。
 - npm test：42 项测试全部通过。
 - npm run test:browser：模拟上游验证通过，覆盖默认 AI、同意说明、抽牌定位、解读、追问、取消、刷新、授权或不可用回退与恢复，含 360 / 393 / 430px 布局。
